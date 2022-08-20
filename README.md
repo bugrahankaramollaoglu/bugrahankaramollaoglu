@@ -1,6 +1,1 @@
-### Hi there 👋
-
-<!--
-**bugrahankaramollaoglu/bugrahankaramollaoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugrahankaramollaoglu)](https://github.com/anuraghazra/github-readme-stats)
+[![bugrahankaramollaoglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugrahankaramollaoglu)](https://github.com/anuraghazra/github-readme-stats)
