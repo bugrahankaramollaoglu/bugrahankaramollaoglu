@@ -1,4 +1,2 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugrahankaramollaoglu&show_icons=true&theme=gruvbox)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrahankaramollaoglu)](https://github.com/anuraghazra/github-readme-stats)
+![wivenhoe_park,_essex_1942 9 10](https://user-images.githubusercontent.com/85173065/186629260-6c5b29a7-7321-4d98-879e-5082335e52d2.jpg)
