@@ -1,4 +1,3 @@
-## a good pic to start a readme
 ![wivenhoe_park,_essex_1942 9 10](https://user-images.githubusercontent.com/85173065/186629260-6c5b29a7-7321-4d98-879e-5082335e52d2.jpg)
 
 ## 42istanbul istatistikleri
@@ -18,3 +17,5 @@
 | 7  | push_swap   | 🔒 |  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 |  🔒  |
 | 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
 | 9  | philosphers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 | 🔒   |
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/beyzanur-tekinli-8a1b421a7/)
