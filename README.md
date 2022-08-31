@@ -21,8 +21,6 @@
 | 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
 | 9  | philosphers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 | 🔒   |
 
-## LINKEDIN [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/beyzanur-tekinli-8a1b421a7/]https://www.linkedin.com/in/bu%C4%9Frahan-karamollao%C4%9Flu-395a571b7/)
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  <p align="center">
+
 <img src="https://github.com/b-tekinli/b-tekinli/blob/main/img/api.gif" />
   </p>
