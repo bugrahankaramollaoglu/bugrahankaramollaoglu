@@ -24,3 +24,61 @@
 
 <img src="https://github.com/b-tekinli/b-tekinli/blob/main/img/api.gif" />
   </p>
+  
+  ## About
+
+<table>
+  <tr>
+    <td valign="center">
+      
+🎓 Currently studying English Language and Literature at Boğaziçi University while being a cadet at 42istanbul at the same time.
+
+🌱 I'm learning Flutter currently and going deeper in C and Python.
+    
+  </tr>
+  </table>
+ 
+ ### <h2 align="center">**My graph**</h2>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bugrahankaramollaoglu&theme=dracula&hide_border=true)
+
+## Connect With Me👋🏼
+<p align="left">  
+<a href="https://twitter.com/lautreamont883" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://linkedin.com/in/bugrahan-karamollaoglu-395a571b7/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+  <a href="https://discord.gg/aRWvpnM6bU" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="30" /></a>
+<a href="https://leetcode.com/bugra-kara/" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
+<a href="https://leetcode.com/Astro_08/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" alt="Astro08" height="35" width="35"/></a>
+<a href=</a>
+
+
+</p>
+    
+### Languages
+
+
+<img src="https://img.icons8.com/color/35/000000/python.png"/>
+<img src="https://img.icons8.com/color/35/000000/c.png"/>
+<img src="https://img.icons8.com/color/35/000000/flutter.png"/>
+<img src="https://img.icons8.com/color/35/000000/swift.png"/>
+
+### DevOps & Cloud Tools
+
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/> 
+
+## My Experiences
+
+- asd
+- asd
+ 
+
+## Stats 📈
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugrahankaramollaoglu&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="bugrahankaramollaoglu" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bugrahankaramollaoglu&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="bugrahankaramollaoglu" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bugrahankaramollaoglu&theme=dracula&hide_border=true" alt="astrodevil" />
+</p>
+  
+
+  
+
