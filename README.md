@@ -11,6 +11,10 @@
   </tr>
   </table>
 
+https://www.codewars.com/users/bugrahankaramollaoglu/badges/micro
+https://www.codewars.com/users/bugrahankaramollaoglu/badges/small
+https://www.codewars.com/users/bugrahankaramollaoglu/badges/large
+
 [![bkaramol's 42 stats](https://badge42.vercel.app/api/v2/cl5vd9rnf006409mo902611u7/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42)
 
 ### About
