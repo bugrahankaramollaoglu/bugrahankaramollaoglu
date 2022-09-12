@@ -15,15 +15,14 @@ https://www.codewars.com/users/bugrahankaramollaoglu/badges/large
 
 [![bkaramol's 42 stats](https://badge42.vercel.app/api/v2/cl5vd9rnf006409mo902611u7/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42)
 
-### About
+### about
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/bu%C4%9Frahan-karamollao%C4%9Flu-395a571b7/)
     
-### Languages
-
+### languages
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,flutter&theme=dark)]()
 
 ### **tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github,linux,macos,&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim,git,github,linux,macos,&theme=dark)]()
