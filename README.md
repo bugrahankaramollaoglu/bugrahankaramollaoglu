@@ -16,11 +16,11 @@
 ### about
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/bu%C4%9Frahan-karamollao%C4%9Flu-395a571b7/)
-    
+
 ### languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,flutter&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=c,python,dart,flutter&theme=dark)]()
 
 ### **tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim,git,github,linux,macos,&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim,bash,git,github,gitlab,md,linux&theme=dark)]()
