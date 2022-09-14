@@ -23,4 +23,4 @@
 
 ### **tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim,bash,git,github,gitlab,md,linux&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim,bash,git,github,linux&theme=dark)]()
