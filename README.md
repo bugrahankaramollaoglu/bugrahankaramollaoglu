@@ -11,7 +11,6 @@
   </tr>
   </table>
 
-[![bkaramol's 42 stats](https://badge42.vercel.app/api/v2/cl5vd9rnf006409mo902611u7/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42)
 
 ### about
 
