@@ -21,3 +21,5 @@
 ### **tools**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim,git,github,linux&theme=dark)]()
+
+[![bkaramol's 42 stats](https://badge42.vercel.app/api/v2/cl1m0540e000609mon8jcubug/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
