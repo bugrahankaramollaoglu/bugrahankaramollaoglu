@@ -2,7 +2,7 @@
   <tr>
     <td valign="center">
       
-🎓  Currently studying English Language and Literature at Boğaziçi University while being a cadet at :logo42: at the same time.
+🎓  Currently studying English Language and Literature at Boğaziçi University while being a cadet at 42istanbul at the same time.
 
 🌱  I'm learning Flutter and going deeper in C and Python.
     
