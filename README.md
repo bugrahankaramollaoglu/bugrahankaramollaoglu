@@ -20,4 +20,4 @@
 
 ### **tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim,git,github,bash,linux&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim,git,github,linux&theme=dark)]()
