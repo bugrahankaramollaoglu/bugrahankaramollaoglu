@@ -21,3 +21,10 @@
 ### **tools**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim,git,github,linux&theme=dark)]()
+
+https://github.com/bugrahankaramollaoglu/42istanbul.git
+https://github.com/bugrahankaramollaoglu/random.git
+https://github.com/bugrahankaramollaoglu/languages.git
+https://github.com/bugrahankaramollaoglu/notes.git
+https://github.com/bugrahankaramollaoglu/exercises.git
+https://github.com/bugrahankaramollaoglu/CveSistemProgramcilari-Kurs-Notlar-.git
