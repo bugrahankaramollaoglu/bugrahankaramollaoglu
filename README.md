@@ -9,8 +9,6 @@
   </tr>
   </table>
 
-https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/issues/1#issue-1431726886
-
 ### about
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/bu%C4%9Frahan-karamollao%C4%9Flu-395a571b7/)
