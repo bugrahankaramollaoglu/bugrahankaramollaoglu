@@ -9,7 +9,7 @@
   </tr>
   </table>
 
-![Alt text](/bugrahankaramollaoglu/park.jpg "my park")
+![Alt text](./park.jpg "my park")
 
 ### about
 
