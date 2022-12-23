@@ -15,7 +15,7 @@
 
 ### languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,dart,bash,swift&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=c,python,dart,bash&theme=dark)]()
 
 ### **tools**
 
