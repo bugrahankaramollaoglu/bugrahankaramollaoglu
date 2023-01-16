@@ -17,7 +17,7 @@
    4::::4 4::::4                2:::::2          [4] - BORN_TO_BE_ROOT (SETTING UP LINUX_OS ON A VM VIA CLI)
   4::::4  4::::4                2:::::2          [5] - MINITALK (COMMUNICATION BETWEEN TERMINALS VIA UNIX SIGNALS)
  4::::4   4::::4             2222::::2           [6] - SO_LONG (2D ARCADE GAME WITH MLX GRAPHIC LIBRARY)
-4::::444444::::444      22222::::::22            [7] - PUSH_SWAP (HANOI-TOWER QUESTION WITH STACK DATA STRUCTURE AND RADIX SORT)
+4::::444444::::444      22222::::::22            [7] - PUSH_SWAP (HANOI-TOWER QUESTION WITH RADIX SORT)
 4::::::::::::::::4    22::::::::222              [8] - PHILOSOPHERS (DINING PHILOSOPHERS QUESTION)
 4444444444:::::444   2:::::22222
           4::::4    2:::::2
