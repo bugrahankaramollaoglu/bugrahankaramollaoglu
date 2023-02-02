@@ -39,3 +39,5 @@
 ### **tools**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim,git,github,linux&theme=dark)]()
+
+![](https://komarev.com/ghpvc/?username=bugrahankaramollaoglu)
