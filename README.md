@@ -2,9 +2,9 @@
   <tr>
     <td valign="center">
       
-🎓  Currently studying English Language and Literature at Boğaziçi University while being a cadet at 42istanbul at the same time.
+🎓  boun wll && 42 student
 
-🌱  I'm learning Flutter and going deeper in C and Python.
+🌱  flutter && c && python
     
   </tr>
   </table>
