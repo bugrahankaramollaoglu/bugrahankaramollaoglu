@@ -2,9 +2,7 @@
   <tr>
     <td valign="center">
       
-🎓  boun wll && 42 student
-
-🌱  flutter && c && python
+🎓  boun wll - 42 student
     
   </tr>
   </table>
