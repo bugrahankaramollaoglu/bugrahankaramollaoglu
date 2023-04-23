@@ -13,7 +13,7 @@
 
 ### languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,flutter&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flutter&theme=dark)]()
 
 ### **tools**
 
