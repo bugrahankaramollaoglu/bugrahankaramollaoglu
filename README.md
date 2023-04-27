@@ -19,5 +19,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim,git,github,linux&theme=dark)]()
 
-![asd](https://komarev.com/ghpvc/?username=bugrahankaramollaoglu)
-
