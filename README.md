@@ -3,7 +3,7 @@
     <td valign="center">
       
 🎓  boğaziçi - ingiliz dili ve edebiyatı 
-🎓  42istanbul - yazilim mühendisliği
+&& 42istanbul - yazilim mühendisliği
     
   </tr>
   </table>
