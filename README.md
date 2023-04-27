@@ -9,11 +9,11 @@
 
 ### about
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark, codewars)](https://www.linkedin.com/in/bu%C4%9Frahan-karamollao%C4%9Flu-395a571b7/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/bu%C4%9Frahan-karamollao%C4%9Flu-395a571b7/)
 
 ### languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flutter&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,codewars,flutter&theme=dark)]()
 
 ### **tools**
 
