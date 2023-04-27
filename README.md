@@ -2,7 +2,8 @@
   <tr>
     <td valign="center">
       
-🎓  boun wll - 42 student
+🎓  boğaziçi - ingiliz dili ve edebiyatı 
+🎓  42istanbul - yazilim mühendisliği
     
   </tr>
   </table>
