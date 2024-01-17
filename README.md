@@ -1,16 +1,16 @@
-## About Me
 
-**Hi, I'm Buğra. I'm a 3rd year English major at Boğaziçi University. I've been self-studying to learn programming for the last couple of years. I've learnt CS and horned my algorithm skills at 42 and Google OUA, now passionately striving to become an Android Developer. I write medium articles, participate in Android ecosystems and build indie-apps. I mostly work with Kotlin but also have a basic understanding of Java.**
+# About Me
 
+**Hi, I'm Buğra. I'm a 3rd year English major at Boğaziçi University. I've been self-studying to learn programming for the last couple of years. I've learnt CS and horned my algorithm skills at 42 and Google OUA, now passionately striving to become an Android Developer. I write medium articles, participate in Android ecosystems and build indie-apps. I mostly work with Kotlin but also have an understanding of Java.**
 <center>
   <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-    <a href="mailto:bugrahankaramollaoglu@gmail.com">
+    <a href="mailto:bugrahankaramollaoglu@gmail.com" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Email-Contact-<COLOR>.svg" alt="Email">
     </a>
-    <a href="https://www.linkedin.com/in/bugrahan-karamollaoglu-395a571b7/">
+    <a href="https://www.linkedin.com/in/bugrahan-karamollaoglu-395a571b7/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-red" alt="LinkedIn">
     </a>
-    <a href="https://discordapp.com/users/bugra#2723">
+    <a href="https://discordapp.com/users/bugra#2723" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Discord-Reach-blue?" alt="Discord">
     </a>
   </div>
@@ -28,8 +28,7 @@
 
 ---
 
-### [42](https://42istanbul.com.tr/) (c/c++)
-#####where I learnt computer science with C and C++ projects
+### [42](https://42istanbul.com.tr/) - where I learnt computer science with C and C++ projects
 
 | Name            | Description | Achievements |
 | --------------- | ----------- | ------------ |
@@ -48,14 +47,13 @@
 
 ---
 
-### [google oua](https://42istanbul.com.tr/)
-#####where I learnt flutter and project management
+### [google oua](https://42istanbul.com.tr/) - where I learnt flutter and project management
+* 
 
 
 ---
 
 ### android projects
-#####my android projects
 
 * 
 
@@ -63,22 +61,18 @@
 ---
 
 ### python projects
-#####my python projects
 
 * 
 
 ---
 
 ### medium
-#####CS articles I wrote in medium
-
 * 
 
 
 ---
 
 ### [programming notes](https://github.com/bugrahankaramollaoglu/my-programming-notes)
-##### notes I took about programming and languages
 
 | Topic             | Notes                                                                                                                   |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------|
@@ -100,16 +94,21 @@
 ---
 
 
+
+
 ### [play store](www.google.com)
-#####apps I published on Google Play Store
-* 
+
 
 ---
-### codewars
+### [codewars](https://www.codewars.com/users/bugrahankaramollaoglu)
+
 <center>
-	![Codewars](https://github.r2v.ch/codewars?user=bugrahankaramollaoglu)
+  <img src="https://github.r2v.ch/codewars?user=bugrahankaramollaoglu" alt="Codewars">
 </center>
-	
+
+---
+
 <center>
   <img width="120" height="20" src="https://komarev.com/ghpvc/?username=bugrahankaramollaoglu&color=green">
 </center>
+
