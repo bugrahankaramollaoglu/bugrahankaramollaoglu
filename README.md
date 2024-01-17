@@ -28,7 +28,7 @@
 
 ---
 
-### [42](https://42istanbul.com.tr/) - where I learnt computer science with C and C++ projects
+### [42](https://42istanbul.com.tr/) - where I learnt a lot on CS with C and C++ projects
 
 | Name            | Description | Achievements |
 | --------------- | ----------- | ------------ |
@@ -109,6 +109,6 @@
 ---
 
 <center>
-  <img width="120" height="20" src="https://komarev.com/ghpvc/?username=bugrahankaramollaoglu&color=green">
+	  <img width="120" height="20" src="https://komarev.com/ghpvc/?username=bugrahankaramollaoglu&color=green">
 </center>
 
