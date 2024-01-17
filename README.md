@@ -67,8 +67,9 @@
 ---
 
 ### medium
-* 
 
+* [Pillars of OOP](https://medium.com/@bugrakaramollaoglu/pillars-of-oop-ed42fb6d29e8)
+*
 
 ---
 
