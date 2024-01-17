@@ -73,7 +73,7 @@
 
 ---
 
-### [programming notes](https://github.com/bugrahankaramollaoglu/my-programming-notes)
+### programming notes
 
 | Topic             | Notes                                                                                                                   |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------|
