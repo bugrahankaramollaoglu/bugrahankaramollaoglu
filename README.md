@@ -47,7 +47,7 @@
 
 ---
 
-### [google oua](https://42istanbul.com.tr/) - where I learnt flutter and project management
+### [google oua](https://oyunveuygulamaakademisi.com/) - where I learnt flutter and project management
 * 
 
 
