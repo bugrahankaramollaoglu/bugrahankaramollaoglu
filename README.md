@@ -57,13 +57,6 @@
 
 * 
 
-
----
-
-### python projects
-
-* 
-
 ---
 
 ### medium
