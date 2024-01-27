@@ -40,7 +40,7 @@
 * [5+ hours] Git & Github - Atıl Samancıoğlu - [BTK](https://www.btkakademi.gov.tr/portal/course/versiyon-kontrolleri-git-ve-github-19439)
 * [44+ hours] Sıfırdan İleri Seviyeye Python Programlama - Sadık Turan - [BTK](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
 * [12+ hours] 6 Haftalık Python Bootcamp Kampı - Türkay Ürkmez - [COMPEC](https://compec.org/)
-* CMPE150 - Introduction to Programming with Python - Boğaziçi Üniversitesi
+* CMPE150 - Introduction to Programming with Python - Boğaziçi Üniversitesi - [notes](https://github.com/bugrahankaramollaoglu/cmpe150)
 
 ---
 
