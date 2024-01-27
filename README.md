@@ -1,7 +1,9 @@
 
+
 # About Me
 
-**Hi, I'm Buğra. I'm a 3rd year English major at Boğaziçi University. I've been self-studying to learn programming for the last couple of years. I've learnt CS and horned my algorithm skills at 42 and Google OUA, now passionately striving to become an Android Developer. I write medium articles, participate in Android ecosystems and build indie-apps. I mostly work with Kotlin but also have an understanding of Java.**
+**Hi, I'm Buğra. I'm a 3rd year English major at Boğaziçi University. I've been self-studying to learn programming for the last couple of years. I've learnt CS and horned my algorithm skills at 42 and Google OUA, now passionately striving to become an Android Developer. I write medium articles, participate in Android ecosystems and build apps. I mostly work with Kotlin but also have an understanding of Java.**
+
 <center>
   <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
     <a href="mailto:bugrahankaramollaoglu@gmail.com" style="text-decoration: none;">
@@ -27,6 +29,32 @@
 <img src="https://skillicons.dev/icons?i=git,github,firebase" /> <br>
 
 ---
+
+### courses I took/taking
+
+* [75+ hours] Android Mobil Uygulama Kursu: Kotlin & Java - Atıl Samancıoğlu - [udemy](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)
+* [25+ hours] C Programming for Beginners - Jason Fedin - [udemy](https://www.udemy.com/course/c-programming-for-beginners-/)
+* [46+ hours] Tim Buchalka's Beginning C++ Course - [udemy](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+* [30+ hours] Maximilian Schwarzmüller's Flutter Course - [udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+* [130+ hours] Project Management - [coursera](https://www.coursera.org/learn/proje-yonetiminin-temelleri)
+* [5+ hours] Git & Github - Atıl Samancıoğlu - [BTK](https://www.btkakademi.gov.tr/portal/course/versiyon-kontrolleri-git-ve-github-19439)
+* [44+ hours] Sıfırdan İleri Seviyeye Python Programlama - Sadık Turan - [BTK](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
+* [12+ hours] 6 Haftalık Python Bootcamp Kampı - Türkay Ürkmez - [COMPEC](https://compec.org/)
+
+---
+
+### books I read/reading
+
+* Linux Komut Satırı - Kemal Demirez - [notes](https://www.notion.so/bugrahankaramollaoglu/linux-notlar-4951ecd1019e4c1498157cbe68696a51)
+* The Big Book of Small Python Projects 
+* C Programming: Just the FAQs - Chisholm Paul S. R - [notes](https://www.notion.so/bugrahankaramollaoglu/c-programming-just-the-FAQs-944f8f6ee82148298c37713bb96bf746)
+* C: How to Program - Deitel - [notes](https://www.notion.so/bugrahankaramollaoglu/deitel-how-to-program-c-notlar-7089d02d07ce4378b28c6a662c3c657f)
+* 50 Python Projects, Coffee Break - Christian Mayer
+* Python Crash Course - Eric Matthes
+* Necati Ergin C ders notları - C Derneği - [notes](https://bugrahankaramollaoglu.notion.site/necati-ergin-c-ders-notlar-0662c25412974b26a3c99cb963fe8fc8)
+
+---
+
 
 ### [42](https://42istanbul.com.tr/) - where I learnt a lot on CS with C and C++ projects
 
@@ -83,6 +111,7 @@
 | [Android notes](https://bugrahankaramollaoglu.notion.site/android-notlar-398e83fced944c5692108921adc65630?pvs=4)     | My notes on Android (hardly Java, mostly Kotlin).                                                                         |
 | [Linux notes](https://bugrahankaramollaoglu.notion.site/linux-notlar-4951ecd1019e4c1498157cbe68696a51?pvs=4)         | From "Linux Komut Satırı" (book) and cheatsheets.                                                                       |
 | [Java notes](https://bugrahankaramollaoglu.notion.site/java-notlar-0e299c1e13214f308dc1ded7691b3b34?pvs=4)           | From assorted resources.                                                                                                 |
+| [Project Management](https://bugrahankaramollaoglu.notion.site/java-notlar-0e299c1e13214f308dc1ded7691b3b34?pvs=4)           | Coursera.                                                                                                 |
 
 
 ---
@@ -91,6 +120,8 @@
 
 
 ### [play store](www.google.com)
+
+* 
 
 
 ---
