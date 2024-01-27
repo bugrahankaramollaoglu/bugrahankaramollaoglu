@@ -1,8 +1,6 @@
+# about me
 
-
-# About Me
-
-**Hi, I'm Buğra. I'm a 3rd year English major at Boğaziçi University. I've been self-studying to learn programming for the last couple of years. I've learnt CS and horned my algorithm skills at 42 and Google OUA, now passionately striving to become an Android Developer. I write medium articles, participate in Android ecosystems and build apps. I mostly work with Kotlin but also have an understanding of Java.**
+**Hi, I'm Buğra. I'm a 3rd year English Literature major at Boğaziçi University. I've been self-studying to learn programming for the last couple of years. I've learnt CS and horned my algorithm skills at 42 and Google OUA, now passionately striving to become an Android Developer. I write medium articles, participate in Android ecosystems and build apps. I mostly work with Kotlin but also have an understanding of Java.**
 
 <center>
   <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
@@ -40,7 +38,7 @@
 * [5+ hours] Git & Github - Atıl Samancıoğlu - [BTK](https://www.btkakademi.gov.tr/portal/course/versiyon-kontrolleri-git-ve-github-19439)
 * [44+ hours] Sıfırdan İleri Seviyeye Python Programlama - Sadık Turan - [BTK](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
 * [12+ hours] 6 Haftalık Python Bootcamp Kampı - Türkay Ürkmez - [COMPEC](https://compec.org/)
-* CMPE150 - Introduction to Programming with Python - Boğaziçi Üniversitesi - [notes](https://github.com/bugrahankaramollaoglu/cmpe150)
+* cmpe150 - Introduction to Programming with Python - Boğaziçi Üniversitesi - [notes](https://github.com/bugrahankaramollaoglu/cmpe150)
 
 ---
 
