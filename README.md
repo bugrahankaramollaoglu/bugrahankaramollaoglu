@@ -51,6 +51,9 @@
 * 50 Python Projects, Coffee Break - Christian Mayer
 * Python Crash Course - Eric Matthes
 * Necati Ergin C ders notları - C Derneği - [notes](https://bugrahankaramollaoglu.notion.site/necati-ergin-c-ders-notlar-0662c25412974b26a3c99cb963fe8fc8)
+* C for Dummies
+* python kılavuz - fırat özgül (yazbel)
+* self-taught progammer - cory althoff:wq
 
 ---
 
