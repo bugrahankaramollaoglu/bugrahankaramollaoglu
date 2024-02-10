@@ -93,7 +93,7 @@
 
 * [Pillars of OOP](https://medium.com/@bugrakaramollaoglu/pillars-of-oop-ed42fb6d29e8)
 * [ListView and RecyclerView](https://medium.com/@bugrakaramollaoglu/listview-and-recyclerview-android-78e4d38b23c6)
-
+* [Makefile Tutorial](https://medium.com/@bugrakaramollaoglu/makefile-tutorial-e95b25078633)
 ---
 
 ### programming notes
