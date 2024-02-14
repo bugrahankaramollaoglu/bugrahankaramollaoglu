@@ -86,11 +86,11 @@
 ### android projects
 
 * [to-do app](https://github.com/bugrahankaramollaoglu/gojo)
-![Alt-text](https://github.com/bugrahankaramollaoglu/gojo/blob/main/gojo.gif)
+
 * [a 2D game](https://github.com/bugrahankaramollaoglu/catch-flappy)
-![Alt-text](https://github.com/bugrahankaramollaoglu/gojo/blob/main/gojo.gif)
+
 * [instagram clone](https://github.com/bugrahankaramollaoglu/instagram-clone)
-![Alt-text](https://github.com/bugrahankaramollaoglu/gojo/blob/main/gojo.gif)
+
 
 ---
 
