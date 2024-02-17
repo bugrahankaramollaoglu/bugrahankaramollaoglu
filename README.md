@@ -78,7 +78,7 @@
 ---
 
 ### [google oua](https://oyunveuygulamaakademisi.com/) - where I learnt flutter and project management
-* 
+* [project management](https://bugrahankaramollaoglu.notion.site/proje-y-netimi-842b1b50194d487d8ad224fd7fede8f2?pvs=4)
 
 
 ---
