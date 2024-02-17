@@ -87,9 +87,10 @@
 
 * [gojo, a to-do app](https://github.com/bugrahankaramollaoglu/gojo)
 <body>
-    <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/assets/bb.jpeg" width="50" height="50">
+
 </body>
 * [catchFlappy, 2D game](https://github.com/bugrahankaramollaoglu/catch-flappy)
+    <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/assets/bb.jpeg" width="50" height="50">
 * [instagram clone](https://github.com/bugrahankaramollaoglu/instagram-clone)
 
 
