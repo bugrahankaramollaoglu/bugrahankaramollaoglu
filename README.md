@@ -85,8 +85,8 @@
 
 ### android projects
 
-* [to-do app](https://github.com/bugrahankaramollaoglu/gojo)
-* [a 2D game](https://github.com/bugrahankaramollaoglu/catch-flappy)
+* [gojo][a to-do app](https://github.com/bugrahankaramollaoglu/gojo)
+* [catchFlappy](https://github.com/bugrahankaramollaoglu/catch-flappy)
 * [instagram clone](https://github.com/bugrahankaramollaoglu/instagram-clone)
 
 
