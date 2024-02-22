@@ -1,6 +1,6 @@
 # hakkımda
 
-##### adım buğra. boğaziçi üniversitesinde ingiliz dili ve edebiyatı okuyorum. 42istanbul ve google oyun ve uygulama akademisi gibi okullarda yazılım eğitimi aldım. kotlin ağırlıklı olmak üzere kotlin/java dillerinde android uygulamalar yazıyorum
+adım buğra. boğaziçi üniversitesinde ingiliz dili ve edebiyatı okuyorum. 42istanbul ve google oyun ve uygulama akademisi gibi okullarda yazılım eğitimi aldım. kotlin ağırlıklı olmak üzere kotlin/java dillerinde android uygulamalar yazıyorum
 
 
 <center>
