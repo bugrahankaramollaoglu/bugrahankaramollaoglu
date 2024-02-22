@@ -31,7 +31,7 @@
 
 ---
 
-### aldığım kurslar
+### courses taken
 
 * [75+ hours] Android Mobil Uygulama Kursu: Kotlin & Java - Atıl Samancıoğlu - [udemy](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)
 * [25+ hours] C Programming for Beginners - Jason Fedin - [udemy](https://www.udemy.com/course/c-programming-for-beginners-/)
