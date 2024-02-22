@@ -73,9 +73,9 @@
 
 ### android projelerim
 
-* [sentensearch](https://github.com/bugrahankaramollaoglu/SentenSearch)
-* [gojo, to-do list uygulaması](https://github.com/bugrahankaramollaoglu/gojo)
-* [catchFlappy, 2D oyun](https://github.com/bugrahankaramollaoglu/catch-flappy)
+* [sentensearch, an english app](https://github.com/bugrahankaramollaoglu/SentenSearch)
+* [gojo, to-do list app](https://github.com/bugrahankaramollaoglu/gojo)
+* [catchFlappy, 2D game](https://github.com/bugrahankaramollaoglu/catch-flappy)
 * [instagram clone](https://github.com/bugrahankaramollaoglu/instagram-clone)
 
 
