@@ -1,7 +1,9 @@
-# hakkımda
+# about me
 
-Adım buğra. boğaziçi üniversitesinde ingiliz dili ve edebiyatı okuyorum. 42istanbul ve google oyun ve uygulama akademisi gibi okullarda yazılım eğitimi aldım. kotlin/java dillerinde android uygulamalar geliştiriyorum.
-
+* bugrahan karamollaoglu, jr. android dev
+* bogazici wll
+* 42istanbul
+* google oyun ve uygulama akademisi
 
 <center>
   <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
@@ -57,7 +59,7 @@ Adım buğra. boğaziçi üniversitesinde ingiliz dili ve edebiyatı okuyorum. 4
 | [**Push_swap**](https://github.com/bugrahankaramollaoglu/42/tree/main/42_pushSwap)    | Sorting two stacks with a sorting algorithm of choice, I used Radix | Sorting Algorithms, Radix, Efficiency, Big(o) notations    |
 | [**So_long**](https://github.com/bugrahankaramollaoglu/42/tree/main/42_soLong)   | Creating a 2D Game | MinilibX: Graphical Library    |
 | [**Philosophers**](https://github.com/bugrahankaramollaoglu/42/tree/main/42_philosophers) | Solving a philosophy question using threads | Threads, Processes, Mutexes, Semaphors    |
-| [**Minishell**](https://github.com/bugrahankaramollaoglu/42/tree/main/42_minishell)  | Simulating Bash language to interact with your terminal, complicated af  | Bash, FDs, Redirections  |
+| [**Minishell**](https://github.com/bugrahankaramollaoglu/42/tree/main/42_minishell)  | Simulating Bash language to interact with your terminal | Bash, FDs, Redirections  |
 | [**Cub3D**](https://github.com/bugrahankaramollaoglu/42/tree/main/42_cub3D)       | Creating a 3D Game with a graphical library  | Ray Casting, Mapping  |
 | [**C++ Modules**](https://github.com/bugrahankaramollaoglu/42/tree/main/42_cpp) | Learn the fundamentals of OOP with C++ | OOP  |
 
@@ -104,7 +106,7 @@ Adım buğra. boğaziçi üniversitesinde ingiliz dili ve edebiyatı okuyorum. 4
 | [Android notları](https://bugrahankaramollaoglu.notion.site/android-notlar-398e83fced944c5692108921adc65630?pvs=4)     | My notes on Android (hardly Java, mostly Kotlin).                                                                         |
 | [Linux notları](https://bugrahankaramollaoglu.notion.site/linux-notlar-4951ecd1019e4c1498157cbe68696a51?pvs=4)         | From "Linux Komut Satırı" (book) and cheatsheets.                                                                       |
 | [Java notları](https://bugrahankaramollaoglu.notion.site/java-notlar-0e299c1e13214f308dc1ded7691b3b34?pvs=4)           | From assorted resources.                                                                                                 |
-| [Project Management](https://bugrahankaramollaoglu.notion.site/java-notlar-0e299c1e13214f308dc1ded7691b3b34?pvs=4)           | Coursera.                                                                                                 |
+| [Project Management](https://bugrahankaramollaoglu.notion.site/java-notlar-0e299c1e13214f308dc1ded7691b3b34?pvs=4)           | Google's Art of Project Management course provided by Coursera.                                                                                                 |
 
 
 ---
