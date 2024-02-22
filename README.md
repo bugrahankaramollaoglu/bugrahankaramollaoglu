@@ -38,22 +38,7 @@
 * [5+ hours] Git & Github - Atıl Samancıoğlu - [BTK](https://www.btkakademi.gov.tr/portal/course/versiyon-kontrolleri-git-ve-github-19439)
 * [44+ hours] Sıfırdan İleri Seviyeye Python Programlama - Sadık Turan - [BTK](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
 * [12+ hours] 6 Haftalık Python Bootcamp Kampı - Türkay Ürkmez - [COMPEC](https://compec.org/)
-* cmpe150 - Introduction to Programming with Python - Boğaziçi Üniversitesi - [notes](https://github.com/bugrahankaramollaoglu/cmpe150)
-
----
-
-### books I read/reading
-
-* Linux Komut Satırı - Kemal Demirez - [notes](https://www.notion.so/bugrahankaramollaoglu/linux-notlar-4951ecd1019e4c1498157cbe68696a51)
-* The Big Book of Small Python Projects 
-* C Programming: Just the FAQs - Chisholm Paul S. R - [notes](https://www.notion.so/bugrahankaramollaoglu/c-programming-just-the-FAQs-944f8f6ee82148298c37713bb96bf746)
-* C: How to Program - Deitel - [notes](https://www.notion.so/bugrahankaramollaoglu/deitel-how-to-program-c-notlar-7089d02d07ce4378b28c6a662c3c657f)
-* 50 Python Projects, Coffee Break - Christian Mayer
-* Python Crash Course - Eric Matthes
-* Necati Ergin C ders notları - C Derneği - [notes](https://bugrahankaramollaoglu.notion.site/necati-ergin-c-ders-notlar-0662c25412974b26a3c99cb963fe8fc8)
-* C for Dummies
-* python kılavuz - fırat özgül (yazbel)
-* self-taught progammer - cory althoff:wq
+* [cmpe150] - Introduction to Programming with Python - Boğaziçi Üniversitesi - [notes](https://github.com/bugrahankaramollaoglu/cmpe150)
 
 ---
 
