@@ -31,7 +31,7 @@
 
 ---
 
-### sertificates
+### certificates
 
 * [Foundations of Project Management - Coursera](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/1_proje-yonetiminin-temelleri.pdf)
 * [12mentorlük - Volunteership](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/12mentorluk.pdf)
