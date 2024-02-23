@@ -45,7 +45,7 @@
 ---
 
 
-### [42istanbul](https://42istanbul.com.tr/) - c/cpp projeleri
+### [42istanbul](https://42istanbul.com.tr/) - c/cpp projects
 
 | Name            | Description | Achievements |
 | --------------- | ----------- | ------------ |
