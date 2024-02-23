@@ -31,17 +31,16 @@
 
 ---
 
-### courses taken
+### sertificates
 
-* [75+ hours] Android Mobil Uygulama Kursu: Kotlin & Java - Atıl Samancıoğlu - [udemy](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)
-* [25+ hours] C Programming for Beginners - Jason Fedin - [udemy](https://www.udemy.com/course/c-programming-for-beginners-/)
-* [46+ hours] Tim Buchalka's Beginning C++ Course - [udemy](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
-* [30+ hours] Maximilian Schwarzmüller's Flutter Course - [udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
-* [130+ hours] Project Management - [coursera](https://www.coursera.org/learn/proje-yonetiminin-temelleri)
-* [5+ hours] Git & Github - Atıl Samancıoğlu - [BTK](https://www.btkakademi.gov.tr/portal/course/versiyon-kontrolleri-git-ve-github-19439)
-* [44+ hours] Sıfırdan İleri Seviyeye Python Programlama - Sadık Turan - [BTK](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
-* [12+ hours] 6 Haftalık Python Bootcamp Kampı - Türkay Ürkmez - [COMPEC](https://compec.org/)
-* [cmpe150] - Introduction to Programming with Python - Boğaziçi Üniversitesi - [notes](https://github.com/bugrahankaramollaoglu/cmpe150)
+* [Foundations of Project Management]()
+* [12mentorlük]()
+* [(75+ hours) Android Mobil Uygulama Kursu: Kotlin & Java - Atıl Samancıoğlu]()
+* [(44+ hours) Sıfırdan İleri Seviyeye Python Programlama - BTK]()
+* [Python Bootcamp - COMPEC]()
+* [Git & Github - Atıl Samancıoğlu]()
+* [CMPE150, Introduction to Computer Science - Boğaziçi]()
+
 
 ---
 
