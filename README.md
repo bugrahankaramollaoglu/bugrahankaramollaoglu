@@ -33,12 +33,12 @@
 
 ### sertificates
 
-* [Foundations of Project Management]()
-* [12mentorlük]()
-* [(75+ hours) Android Mobil Uygulama Kursu: Kotlin & Java - Atıl Samancıoğlu]()
-* [(44+ hours) Sıfırdan İleri Seviyeye Python Programlama - BTK]()
-* [Python Bootcamp - COMPEC]()
-* [Git & Github - Atıl Samancıoğlu]()
+* [Foundations of Project Management - Coursera](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/1_proje-yonetiminin-temelleri.pdf)
+* [12mentorlük - Volunteership](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/12mentorluk.pdf)
+* [Android Mobil Uygulama Kursu: Kotlin & Java - Atıl Samancıoğlu](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/android_udemy.pdf)
+* [Sıfırdan İleri Seviyeye Python Programlama - BTK](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/btkPython.pdf)
+* [Python Bootcamp - COMPEC](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/python%20sertifika.pdf)
+* [Git & Github - Atıl Samancıoğlu](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/git%26github.pdf)
 * [CMPE150, Introduction to Computer Science - Boğaziçi]()
 
 
