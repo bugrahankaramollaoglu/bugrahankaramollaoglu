@@ -31,6 +31,24 @@
 
 ---
 
+### android projects
+
+* [sentensearch, an english app](https://github.com/bugrahankaramollaoglu/SentenSearch)
+* [gojo, to-do list app](https://github.com/bugrahankaramollaoglu/gojo)
+* [catchFlappy, 2D game](https://github.com/bugrahankaramollaoglu/catch-flappy)
+* [instagram clone](https://github.com/bugrahankaramollaoglu/instagram-clone)
+
+
+---
+
+### medium articles
+
+* [Pillars of OOP](https://medium.com/@bugrakaramollaoglu/pillars-of-oop-ed42fb6d29e8)
+* [ListView and RecyclerView](https://medium.com/@bugrakaramollaoglu/listview-and-recyclerview-android-78e4d38b23c6)
+* [Makefile Tutorial](https://medium.com/@bugrakaramollaoglu/makefile-tutorial-e95b25078633)
+
+---
+
 ### certificates
 
 * [Foundations of Project Management - Coursera](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/1_proje-yonetiminin-temelleri.pdf)
@@ -70,23 +88,6 @@
 
 ---
 
-### android projects
-
-* [sentensearch, an english app](https://github.com/bugrahankaramollaoglu/SentenSearch)
-* [gojo, to-do list app](https://github.com/bugrahankaramollaoglu/gojo)
-* [catchFlappy, 2D game](https://github.com/bugrahankaramollaoglu/catch-flappy)
-* [instagram clone](https://github.com/bugrahankaramollaoglu/instagram-clone)
-
-
----
-
-### medium articles
-
-* [Pillars of OOP](https://medium.com/@bugrakaramollaoglu/pillars-of-oop-ed42fb6d29e8)
-* [ListView and RecyclerView](https://medium.com/@bugrakaramollaoglu/listview-and-recyclerview-android-78e4d38b23c6)
-* [Makefile Tutorial](https://medium.com/@bugrakaramollaoglu/makefile-tutorial-e95b25078633)
-
----
 
 ### programming notes
 
