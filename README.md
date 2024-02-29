@@ -65,15 +65,15 @@
 
 ### some of [42istanbul](https://42istanbul.com.tr/) - c/cpp projects
 
-* [**C++ Modules, fundamentals of OOP**](https://github.com/bugrahankaramollaoglu/42/tree/main/42_cpp)
-* [**Philosophers, dining on threads**](https://github.com/bugrahankaramollaoglu/42/tree/main/42_philosophers)
-* [**Minishell, imitating Bash**](https://github.com/bugrahankaramollaoglu/42/tree/main/42_minishell)
-* [**Cub3D, a 3D game with Raycasting**](https://github.com/bugrahankaramollaoglu/42/tree/main/42_cub3D)
+* [C++ Modules, fundamentals of OOP](https://github.com/bugrahankaramollaoglu/42/tree/main/42_cpp)
+* [Philosophers, dining on threads](https://github.com/bugrahankaramollaoglu/42/tree/main/42_philosophers)
+* [Minishell, imitating Bash](https://github.com/bugrahankaramollaoglu/42/tree/main/42_minishell)
+* [Cub3D, a 3D game with Raycasting](https://github.com/bugrahankaramollaoglu/42/tree/main/42_cub3D)
 
 ---
 
 ### [google oua](https://oyunveuygulamaakademisi.com/) - flutter & project management
-* * [Flutter notes](https://bugrahankaramollaoglu.notion.site/flutter-98c3bdd6e33745d889c35411a73144c3?pvs=4)
+* [Flutter notes](https://bugrahankaramollaoglu.notion.site/flutter-98c3bdd6e33745d889c35411a73144c3?pvs=4)
 * [project management](https://bugrahankaramollaoglu.notion.site/proje-y-netimi-842b1b50194d487d8ad224fd7fede8f2?pvs=4)
 
 
