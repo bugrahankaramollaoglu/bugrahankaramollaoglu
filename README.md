@@ -7,13 +7,19 @@
 
 ---
 
-# contact
-
-* email: [click](bugrahankaramollaoglu@gmail.com)
-* linkedin: [click](https://www.linkedin.com/in/bugrahankaramollaoglu)
-* discord: [click](https://img.shields.io/badge/discord-Reach-blue?)
-
-
+<center>
+  <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+    <a href="mailto:bugrahankaramollaoglu@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/email-Contact-<COLOR>.svg" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/bugrahankaramollaoglu/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/linkedIn-Connect-red" alt="LinkedIn">
+    </a>
+    <a href="https://discordapp.com/users/bugra#2723" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/discord-Reach-blue?" alt="Discord">
+    </a>
+  </div>
+</center>
 
 
 ---
