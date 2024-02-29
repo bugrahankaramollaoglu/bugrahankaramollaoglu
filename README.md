@@ -5,8 +5,6 @@
 * 42istanbul
 * google oyun ve uygulama akademisi
 
----
-
 <center>
   <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
     <a href="mailto:bugrahankaramollaoglu@gmail.com" style="text-decoration: none;">
