@@ -31,11 +31,18 @@
 
 ---
 
+### [play store](www.google.com)
+
+* [sentensearch](https://lnkd.in/dKQjAexs)
+
+---
+
 ### android projects
 
-* [sentensearch, an english app](https://github.com/bugrahankaramollaoglu/SentenSearch)
-* [gojo, to-do list app](https://github.com/bugrahankaramollaoglu/gojo)
-* [catchFlappy, 2D game](https://github.com/bugrahankaramollaoglu/catch-flappy)
+* [sentensearch, dil uygulaması](https://github.com/bugrahankaramollaoglu/SentenSearch)
+* [gojo, to-do list](https://github.com/bugrahankaramollaoglu/gojo)
+* [rota portalı, derece ödüllü Google Maps uygulaması](https://github.com/bugrahankaramollaoglu/rota_portali)
+* [catchFlappy, 2D oyun](https://github.com/bugrahankaramollaoglu/catch-flappy)
 
 ---
 
@@ -85,15 +92,6 @@
 * [C/C++ notes](https://bugrahankaramollaoglu.notion.site/random-c-c-notes-9e3890b180bb40ccb900c7fd72a43e3a?pvs=4)
 
 and [the rest of my notes](https://github.com/bugrahankaramollaoglu/my-programming-notes)
-
-
-
----
-
-
-### [play store](www.google.com)
-
-* 
 
 
 ---
