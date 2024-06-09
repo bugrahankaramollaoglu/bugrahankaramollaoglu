@@ -1,33 +1,14 @@
 # about me
 
-* bugrahan karamollaoglu, jr. android dev
-* bogazici wll
+* boğaziçi üniversitesi
 * 42istanbul
 * google oyun ve uygulama akademisi
 
-<center>
-  <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-    <a href="mailto:bugrahankaramollaoglu@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/email-Contact-<COLOR>.svg" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/bugrahankaramollaoglu/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/linkedIn-Connect-red" alt="LinkedIn">
-    </a>
-    <a href="https://discordapp.com/users/bugra#2723" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/discord-Reach-blue?" alt="Discord">
-    </a>
-  </div>
-</center>
-
-
----
-
 ### tools
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,java,kotlin" /> <br>
-<img src="https://skillicons.dev/icons?i=linux,vscode,androidstudio" /> <br>
-<img src="https://skillicons.dev/icons?i=flutter" /> <br>
-<img src="https://skillicons.dev/icons?i=git,github,firebase" /> <br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,flutter" /> <br>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea" /> <br>
+<img src="https://skillicons.dev/icons?i=git,firebase,linux,arch,figma" /> <br>
 
 ---
 
@@ -39,7 +20,6 @@
 
 ### android projects
 
-* [sentensearch, dil uygulaması](https://github.com/bugrahankaramollaoglu/SentenSearch)
 * [gojo, to-do list](https://github.com/bugrahankaramollaoglu/gojo)
 * [rota portalı, derece ödüllü Google Maps uygulaması](https://github.com/bugrahankaramollaoglu/rota_portali)
 * [catchFlappy, 2D oyun](https://github.com/bugrahankaramollaoglu/catch-flappy)
@@ -92,18 +72,3 @@
 * [C/C++ notes](https://bugrahankaramollaoglu.notion.site/random-c-c-notes-9e3890b180bb40ccb900c7fd72a43e3a?pvs=4)
 
 and [the rest of my notes](https://github.com/bugrahankaramollaoglu/my-programming-notes)
-
-
----
-### [codewars](https://www.codewars.com/users/bugrahankaramollaoglu)
-
-<center>
-  <img src="https://github.r2v.ch/codewars?user=bugrahankaramollaoglu" alt="Codewars">
-</center>
-
----
-
-<center>
-	  <img width="120" height="20" src="https://komarev.com/ghpvc/?username=bugrahankaramollaoglu&color=green">
-</center>
-
