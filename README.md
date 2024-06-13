@@ -20,6 +20,7 @@
 
 ### android projects
 
+* [weatherly](https://github.com/bugrahankaramollaoglu/weatherly)
 * [gojo, to-do list](https://github.com/bugrahankaramollaoglu/gojo)
 * [rota portalı, derece ödüllü Google Maps uygulaması](https://github.com/bugrahankaramollaoglu/rota_portali)
 * [catchFlappy, 2D oyun](https://github.com/bugrahankaramollaoglu/catch-flappy)
