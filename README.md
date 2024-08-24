@@ -6,31 +6,38 @@
 
 ### tools
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,flutter" /> <br>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,java,c,cpp" /> <br>
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea" /> <br>
 <img src="https://skillicons.dev/icons?i=git,firebase,linux,arch,figma" /> <br>
 
 ---
 
-### [play store](www.google.com)
+### play store
 
-* [sentensearch](https://lnkd.in/dKQjAexs)
+* [sentensearch (play store)](https://play.google.com/store/apps/details?id=com.bugrahankaramollaoglu.sentensearch)
 
 ---
 
-### android projects
+### mobile projects
 
+* [sentensearch (source code)](https://github.com/bugrahankaramollaoglu/sentensearch)
+* [greefin](https://github.com/bugrahankaramollaoglu/greefin)
 * [weatherly](https://github.com/bugrahankaramollaoglu/weatherly)
-* [gojo, to-do list](https://github.com/bugrahankaramollaoglu/gojo)
-* [rota portalı, derece ödüllü google maps uygulaması](https://github.com/bugrahankaramollaoglu/rota_portali)
-* [catchFlappy, 2D oyun](https://github.com/bugrahankaramollaoglu/catch-flappy)
+* [gojo](https://github.com/bugrahankaramollaoglu/gojo)
+* [compose login](https://github.com/bugrahankaramollaoglu/compose_login)
+* [flutterXample](https://github.com/bugrahankaramollaoglu/flutterXample)
+* [rota portalı](https://github.com/bugrahankaramollaoglu/rota_portali)
+* [catch flappy](https://github.com/bugrahankaramollaoglu/catch-flappy)
 
 ---
 
 ### medium articles
 
 * [pillars of oop](https://medium.com/@bugrakaramollaoglu/pillars-of-oop-ed42fb6d29e8)
-* [listView and recyclerView](https://medium.com/@bugrakaramollaoglu/listview-and-recyclerview-android-78e4d38b23c6)
+* [listView & recyclerView](https://medium.com/@bugrakaramollaoglu/listview-and-recyclerview-android-78e4d38b23c6)
+* [android'de sqlite kullanımı](https://medium.com/@bugrahankaramollaoglu/sqlite-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-c0a766e0519e)
+* [api nedir nasıl kullanılır](https://medium.com/@bugrahankaramollaoglu/%C3%BCcretsiz-api-kaynaklar%C4%B1-nas%C4%B1l-kullan%C4%B1l%C4%B1r-hava-durumu-68036a06d3e2)
+* [onboarding in flutter](https://medium.com/@bugrahankaramollaoglu/how-to-implement-onboarding-in-flutter-a334386dfb9b)
 * [makefile tutorial](https://medium.com/@bugrakaramollaoglu/makefile-tutorial-e95b25078633)
 
 ---
@@ -42,25 +49,9 @@
 * [android mobil uygulama kursu: kotlin & java - atıl samancıoğlu](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/android_udemy.pdf)
 * [sıfırdan ileri seviyeye python programlama - btk](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/btkPython.pdf)
 * [python bootcamp - compec](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/python%20sertifika.pdf)
-* [git & github - atıl samancıoğlu](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/git%26github.pdf)
-* [cmpe150, introduction to computer ccience - boğaziçi]()
-
-
----
-
-
-### some of [42istanbul](https://42istanbul.com.tr/) - c/cpp projects
-
-* [c++ modules, fundamentals of oop](https://github.com/bugrahankaramollaoglu/42/tree/main/42_cpp)
-* [philosophers, dining on threads](https://github.com/bugrahankaramollaoglu/42/tree/main/42_philosophers)
-* [minishell, imitating bash](https://github.com/bugrahankaramollaoglu/42/tree/main/42_minishell)
-* [cub3D, a 3D game with raycasting](https://github.com/bugrahankaramollaoglu/42/tree/main/42_cub3D)
-
----
-
-### [google oua](https://oyunveuygulamaakademisi.com/) - flutter & project management
-* [flutter notes](https://bugrahankaramollaoglu.notion.site/flutter-98c3bdd6e33745d889c35411a73144c3?pvs=4)
-* [project management](https://bugrahankaramollaoglu.notion.site/proje-y-netimi-842b1b50194d487d8ad224fd7fede8f2?pvs=4)
+* [app-jam 2024 OUA]()
+* [AI app-jam 2024 OUA]()
+* [cmpe150, introduction to computer science - boğaziçi]()
 
 ---
 
