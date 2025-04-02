@@ -20,14 +20,14 @@
 
 ### mobile projects
 
-* [sentensearch (source code)](https://github.com/bugrahankaramollaoglu/sentensearch)
-* [greefin](https://github.com/bugrahankaramollaoglu/greefin)
-* [weatherly](https://github.com/bugrahankaramollaoglu/weatherly)
-* [gojo](https://github.com/bugrahankaramollaoglu/gojo)
-* [compose login](https://github.com/bugrahankaramollaoglu/compose_login)
-* [flutterXample](https://github.com/bugrahankaramollaoglu/flutterXample)
-* [rota portalı](https://github.com/bugrahankaramollaoglu/rota_portali)
-* [catch flappy](https://github.com/bugrahankaramollaoglu/catch-flappy)
+* [sentensearch (kotlin)](https://github.com/bugrahankaramollaoglu/sentensearch)
+* [greefin (flutter)](https://github.com/bugrahankaramollaoglu/greefin)
+* [weatherly (flutter)](https://github.com/bugrahankaramollaoglu/weatherly)
+* [gojo (flutter)](https://github.com/bugrahankaramollaoglu/gojo)
+* [remindly (jetpack compose)](https://github.com/bugrahankaramollaoglu/remindly)
+* [compose login (jetpack compose)](https://github.com/bugrahankaramollaoglu/compose_login)
+* [rota portalı (flutter)](https://github.com/bugrahankaramollaoglu/rota_portali)
+* [catch flappy (java)](https://github.com/bugrahankaramollaoglu/catch-flappy)
 
 ---
 
