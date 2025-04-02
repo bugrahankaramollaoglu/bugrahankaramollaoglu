@@ -1,5 +1,6 @@
 # about me
 
+* android/flutter developer
 * boğaziçi üniversitesi
 * 42istanbul – programming (C/C++)
 * google oyun ve uygulama akademisi – project management & mobile development
@@ -14,7 +15,7 @@
 
 ### play store
 
-* [sentensearch (language learning app written in Kotlin)](https://play.google.com/store/apps/details?id=com.bugrahankaramollaoglu.sentensearch)
+* [sentensearch (language learning app)](https://play.google.com/store/apps/details?id=com.bugrahankaramollaoglu.sentensearch)
 
 ---
 
