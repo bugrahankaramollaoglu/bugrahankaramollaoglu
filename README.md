@@ -1,20 +1,20 @@
 # about me
 
 * boğaziçi üniversitesi
-* 42istanbul
-* google oyun ve uygulama akademisi
+* 42istanbul – programming (C/C++)
+* google oyun ve uygulama akademisi – project management & mobile development
 
 ### tools
 
-<img src="https://skillicons.dev/icons?i=kotlin,flutter,java,c,cpp" /> <br>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,java,c,cpp,python" /> <br>
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea" /> <br>
-<img src="https://skillicons.dev/icons?i=git,firebase,linux,arch,figma" /> <br>
+<img src="https://skillicons.dev/icons?i=git,firebase,linux,figma" /> <br>
 
 ---
 
 ### play store
 
-* [sentensearch (play store)](https://play.google.com/store/apps/details?id=com.bugrahankaramollaoglu.sentensearch)
+* [sentensearch (language learning app written in Kotlin)](https://play.google.com/store/apps/details?id=com.bugrahankaramollaoglu.sentensearch)
 
 ---
 
@@ -35,8 +35,8 @@
 
 * [pillars of oop](https://medium.com/@bugrakaramollaoglu/pillars-of-oop-ed42fb6d29e8)
 * [listView & recyclerView](https://medium.com/@bugrakaramollaoglu/listview-and-recyclerview-android-78e4d38b23c6)
-* [android'de sqlite kullanımı](https://medium.com/@bugrahankaramollaoglu/sqlite-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-c0a766e0519e)
-* [api nedir nasıl kullanılır](https://medium.com/@bugrahankaramollaoglu/%C3%BCcretsiz-api-kaynaklar%C4%B1-nas%C4%B1l-kullan%C4%B1l%C4%B1r-hava-durumu-68036a06d3e2)
+* [introduction to sql in android](https://medium.com/@bugrahankaramollaoglu/sqlite-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-c0a766e0519e)
+* [introduction to API in android](https://medium.com/@bugrahankaramollaoglu/%C3%BCcretsiz-api-kaynaklar%C4%B1-nas%C4%B1l-kullan%C4%B1l%C4%B1r-hava-durumu-68036a06d3e2)
 * [onboarding in flutter](https://medium.com/@bugrahankaramollaoglu/how-to-implement-onboarding-in-flutter-a334386dfb9b)
 * [makefile tutorial](https://medium.com/@bugrakaramollaoglu/makefile-tutorial-e95b25078633)
 
@@ -44,13 +44,13 @@
 
 ### certificates
 
-* [foundations of project management - coursera](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/1_proje-yonetiminin-temelleri.pdf)
+* [project management - coursera](https://coursera.org/share/d4e82d0d6b869eaffbc23634ffa37662)
 * [12mentorlük - volunteership](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/12mentorluk.pdf)
 * [android mobil uygulama kursu: kotlin & java - atıl samancıoğlu](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/android_udemy.pdf)
 * [sıfırdan ileri seviyeye python programlama - btk](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/btkPython.pdf)
 * [python bootcamp - compec](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/python%20sertifika.pdf)
-* [app-jam 2024 OUA]()
-* [AI app-jam 2024 OUA]()
+* [Google OUA - app jam 2024]()
+* [Google OUA - app jam AI 2024]()
 * [cmpe150, introduction to computer science - boğaziçi]()
 
 ---
