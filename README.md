@@ -1,9 +1,9 @@
 # about me
 
-* android/flutter developer
-* boğaziçi üniversitesi
-* 42istanbul – programming (C/C++)
-* google oyun ve uygulama akademisi – project management & mobile development
+* Boğaziçi Üniversitesi, B.a
+* Android Developer (Kotlin/Java/Jetpack, Flutter)
+* 42istanbul – Software Engineering (C/C++)
+* Google Oyun ve Uygulama akademisi – project management & mobile development (Flutter)
 
 ### tools
 
