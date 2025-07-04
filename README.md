@@ -1,9 +1,9 @@
 # about me
 
-* Boğaziçi Üniversitesi, B.a
+* Boğaziçi Üniversitesi, B.A
 * Android Developer (Kotlin/Java/Jetpack, Flutter)
 * 42istanbul – Software Engineering (C/C++)
-* Google Oyun ve Uygulama akademisi – project management & mobile development (Flutter)
+* Google Oyun ve Uygulama Akademisi – Flutter & project management
 
 ### tools
 
@@ -21,6 +21,7 @@
 
 ### mobile projects
 
+* [tasty (jetpack compose)](https://github.com/bugrahankaramollaoglu/tasty)
 * [sentensearch (kotlin)](https://github.com/bugrahankaramollaoglu/sentensearch)
 * [greefin (flutter)](https://github.com/bugrahankaramollaoglu/greefin)
 * [weatherly (flutter)](https://github.com/bugrahankaramollaoglu/weatherly)
@@ -43,23 +44,3 @@
 
 ---
 
-### certificates
-
-* [project management - coursera](https://coursera.org/share/d4e82d0d6b869eaffbc23634ffa37662)
-* [12mentorlük - volunteership](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/12mentorluk.pdf)
-* [android mobil uygulama kursu: kotlin & java - atıl samancıoğlu](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/android_udemy.pdf)
-* [sıfırdan ileri seviyeye python programlama - btk](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/btkPython.pdf)
-* [python bootcamp - compec](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/certificates/python%20sertifika.pdf)
-* [Google OUA - app jam 2024]()
-* [Google OUA - app jam AI 2024]()
-* [cmpe150, introduction to computer science - boğaziçi]()
-
----
-
-### some of my notes on programming & cs
-
-* [android notes](https://bugrahankaramollaoglu.notion.site/android-notlar-398e83fced944c5692108921adc65630?pvs=4)
-* [git notes](https://bugrahankaramollaoglu.notion.site/git-notlar-d0c36f9e594f4390a9999b39d75958e4?pvs=4)
-* [c/c++ notes](https://bugrahankaramollaoglu.notion.site/random-c-c-notes-9e3890b180bb40ccb900c7fd72a43e3a?pvs=4)
-
-and [the rest of my notes](https://github.com/bugrahankaramollaoglu/my-programming-notes)
