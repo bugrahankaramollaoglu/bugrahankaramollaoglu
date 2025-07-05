@@ -1,9 +1,10 @@
+
 # about me
 
-* Boğaziçi Üniversitesi, B.A
+* Boğaziçi Üniversitesi, B.a
 * Android Developer (Kotlin/Java/Jetpack, Flutter)
 * 42istanbul – Software Engineering (C/C++)
-* Google Oyun ve Uygulama Akademisi – Flutter & project management
+* Google Oyun ve Uygulama Akademisi – Flutter & Project Management
 
 ### tools
 
@@ -21,15 +22,13 @@
 
 ### mobile projects
 
-* [tasty (jetpack compose)](https://github.com/bugrahankaramollaoglu/tasty)
-* [sentensearch (kotlin)](https://github.com/bugrahankaramollaoglu/sentensearch)
-* [greefin (flutter)](https://github.com/bugrahankaramollaoglu/greefin)
-* [weatherly (flutter)](https://github.com/bugrahankaramollaoglu/weatherly)
-* [gojo (flutter)](https://github.com/bugrahankaramollaoglu/gojo)
-* [remindly (jetpack compose)](https://github.com/bugrahankaramollaoglu/remindly)
-* [compose login (jetpack compose)](https://github.com/bugrahankaramollaoglu/compose_login)
-* [rota portalı (flutter)](https://github.com/bugrahankaramollaoglu/rota_portali)
-* [catch flappy (java)](https://github.com/bugrahankaramollaoglu/catch-flappy)
+| [Tasty](https://github.com/bugrahankaramollaoglu/tasty) | [Sentensearch](https://github.com/bugrahankaramollaoglu/sentensearch) | [Gojo](https://github.com/bugrahankaramollaoglu/gojo) | [Rota Portali](https://github.com/bugrahankaramollaoglu/rota_portali) |
+|-----------------|---------------|-------------------|---------------|
+| ![Tasty](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/tasty.png) | ![Sentensearch](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/sentensearch.png) | ![Gojo](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/gojo.png) | ![Rota Portali](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/rota_portali.png) |
+
+| [Greefin](https://github.com/bugrahankaramollaoglu/greefin) | [Remindly](https://github.com/bugrahankaramollaoglu/remindly) | [Weatherly](https://github.com/bugrahankaramollaoglu/weatherly) | [Catch Flappy](https://github.com/bugrahankaramollaoglu/catch_flappy) |
+|-------------|------------------|----------------|--------------|
+| ![Greefin](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/greefin.png) | ![Remindly](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/remindly.png) | ![Weatherly](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/weatherly.png) | ![Catch Flappy](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/catch_flappy.png) |
 
 ---
 
