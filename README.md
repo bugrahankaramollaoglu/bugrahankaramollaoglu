@@ -24,11 +24,12 @@
 
 | [Tasty](https://github.com/bugrahankaramollaoglu/tasty) | [Sentensearch](https://github.com/bugrahankaramollaoglu/sentensearch) | [Gojo](https://github.com/bugrahankaramollaoglu/gojo) | [Rota Portali](https://github.com/bugrahankaramollaoglu/rota_portali) |
 |-----------------|---------------|-------------------|---------------|
-| ![Tasty](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/tasty.png) | ![Sentensearch](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/sentensearch.png) | ![Gojo](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/gojo.png) | ![Rota Portali](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/rota_portali.png) |
+| <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/tasty.png" width="200"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/sentensearch.png" width="200"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/gojo.png" width="200"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/rota_portali.png" width="200"/> |
 
 | [Greefin](https://github.com/bugrahankaramollaoglu/greefin) | [Remindly](https://github.com/bugrahankaramollaoglu/remindly) | [Weatherly](https://github.com/bugrahankaramollaoglu/weatherly) | [Catch Flappy](https://github.com/bugrahankaramollaoglu/catch_flappy) |
 |-------------|------------------|----------------|--------------|
-| ![Greefin](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/greefin.png) | ![Remindly](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/remindly.png) | ![Weatherly](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/weatherly.png) | ![Catch Flappy](https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/catch_flappy.png) |
+| <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/greefin.png" width="200"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/remindly.png" width="200"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/weatherly.png" width="200"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/catch_flappy.png" width="200"/> |
+
 
 ---
 
