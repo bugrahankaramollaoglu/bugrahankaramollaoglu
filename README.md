@@ -1,6 +1,6 @@
 # About me
 
-[![Portfolio Preview](./readme_files/portfolio2.png)](https://bugrahankaramollaoglu.com)
+[![Portfolio Preview](./readme_files/portfolio.png)](https://bugrahankaramollaoglu.com)
 
 <div align="center">
 
