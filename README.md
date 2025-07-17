@@ -5,7 +5,7 @@
 <div align="center">
 
 Explore my full portfolio and resume at:  
-[www.bugrahankaramollaoglu.com](https://www.bugrahankaramollaoglu.com)
+[www.bugrahankaramollaoglu.com](https://bugrahankaramollaoglu.com/)
 
 </div>
 
