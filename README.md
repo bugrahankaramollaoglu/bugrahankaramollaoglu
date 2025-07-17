@@ -1,5 +1,18 @@
-# About Me
-I am a versatile Android/Flutter developer with a good foundation in cs · mobile applications. I implement a wide span of mobile technologies in developing my apps and I am learning to integrate AI agents for a better suitability with the state-of-the-art technologies.
+# About me
+
+[![Portfolio Preview](./readme_files/portfolio.png)](https://bugrahankaramollaoglu.com)
+
+<div align="center">
+
+Explore my full portfolio and resume at:  
+[www.bugrahankaramollaoglu.com](https://www.bugrahankaramollaoglu.com)
+
+</div>
+
+---
+
+## Education
+I am a versatile Android/Flutter developer with a good foundation in cs · mobile applications. I implement a wide span of mobile technologies in developing my apps and I am learning to integrate AI agents for a better suitability with the state-of-the-art technologies. 
 
 - **Education:** Boğaziçi University, B.a
 - **Specialization:** Mobile Development (Kotlin, Java, Jetpack Compose, Flutter)  
@@ -9,14 +22,6 @@ I am a versatile Android/Flutter developer with a good foundation in cs · mobil
 
 ---
 
-## Portfolio
-
-Explore my full portfolio and resume at:  
-[www.bugrahankaramollaoglu.com](https://www.bugrahankaramollaoglu.com) 
-[![Portfolio Preview](./readme_files/portfolio.png)](https://bugrahankaramollaoglu.com)
- 
-
----
 
 ## Tools & Technologies
 
@@ -57,4 +62,7 @@ I regularly publish technical articles sharing insights and tutorials on softwar
 
 ---
 
-Thank you for your interest. Feel free to connect or reach out for collaboration opportunities.
+<div align="center">
+  Feel free to contact me on  
+  <a href="mailto:bugrahankaramollaoglu@gmail.com" title="Send Email">📧</a>
+</div>
