@@ -60,6 +60,9 @@ I regularly publish technical articles sharing insights and tutorials on softwar
 - [Implementing Onboarding in Flutter](https://medium.com/@bugrahankaramollaoglu/how-to-implement-onboarding-in-flutter-a334386dfb9b)  
 - [Makefile Tutorial](https://medium.com/@bugrakaramollaoglu/makefile-tutorial-e95b25078633)
 
+# codewars
+![image](https://www.codewars.com/users/bugrahankaramollaoglu/badges/large)
+
 ---
 
 <div align="center">
