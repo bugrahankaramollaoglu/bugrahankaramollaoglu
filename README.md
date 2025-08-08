@@ -26,9 +26,12 @@ I am a versatile Android/Flutter developer with a good foundation in cs · mobil
 ## Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=kotlin,dart,java,c,cpp,python" alt="Programming Languages" />  
-<img src="https://skillicons.dev/icons?i=flutter,django,nodejs,postman" alt="Programming Languages" />  
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea" alt="IDEs" />
-<img src="https://skillicons.dev/icons?i=git,firebase,arch,figma, postgresql, mongodb, sqlite" alt="Other Tools" />  
+
+<img src="https://skillicons.dev/icons?i=flutter,django,nodejs,postman,arch" alt="Programming Languages" />  
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea" alt="IDEs" />  
+
+<img src="https://skillicons.dev/icons?i=git,firebase,figma,postgresql,mongodb" alt="Other Tools" />  
 
 ---
 
