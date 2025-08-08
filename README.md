@@ -31,7 +31,7 @@ I am a versatile Android/Flutter developer with a good foundation in cs · mobil
 
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea" alt="IDEs" />  
 
-<img src="https://skillicons.dev/icons?i=git,firebase,figma,postgresql,mongodb" alt="Other Tools" />  
+<img src="https://skillicons.dev/icons?i=git,firebase,figma,postgresql,mongodb,sqlite" alt="Other Tools" />  
 
 ---
 
