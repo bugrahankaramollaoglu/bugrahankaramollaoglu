@@ -12,7 +12,7 @@ Explore my full portfolio and resume at:
 ---
 
 ## Education
-I am a versatile Android/Flutter developer with a good foundation in cs · mobile applications. I implement a wide span of mobile technologies in developing my apps and I am learning to integrate AI agents for a better suitability with the state-of-the-art technologies. 
+I am a versatile Android/Flutter developer with a good foundation in cs · mobile applications. I implement a wide span of mobile technologies in developing my apps and I am learning to integrate AI agents for a better suitability with the state-of-the-art technologies.
 
 - **Education:** Boğaziçi University, B.a
 - **Specialization:** Mobile Development (Kotlin, Java, Jetpack Compose, Flutter)  
@@ -63,6 +63,17 @@ I regularly publish technical articles sharing insights and tutorials on softwar
 - [Using APIs in Android](https://medium.com/@bugrakaramollaoglu/%C3%BCcretsiz-api-kaynaklar%C4%B1-nas%C4%B1l-kullan%C4%B1l%C4%B1r-hava-durumu-68036a06d3e2)  
 - [Implementing Onboarding in Flutter](https://medium.com/@bugrahankaramollaoglu/how-to-implement-onboarding-in-flutter-a334386dfb9b)  
 - [Makefile Tutorial](https://medium.com/@bugrakaramollaoglu/makefile-tutorial-e95b25078633)
+
+---
+
+## Tutorials on Youtube
+
+I try to publish all the new concepts and libraries in Android and Flutter for learning purposes.
+
+
+| [APIs in Flutter](https://www.youtube.com/watch?v=h3pRX_czDzY&t=1023s&ab_channel=bu%C4%9Frahankaramollao%C4%9Flu) | [APIs in Kotlin](https://www.youtube.com/watch?v=h3pRX_czDzY&t=1023s&ab_channel=bu%C4%9Frahankaramollao%C4%9Flu)
+|:-------------------------:|:------------------------------:
+| <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/cover_1.png" width="200" alt="Video_1 Cover"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/cover_2.png" width="200" alt="Video_2 Cover"/> 
 
 # codewars
 ![image](https://www.codewars.com/users/bugrahankaramollaoglu/badges/large)
