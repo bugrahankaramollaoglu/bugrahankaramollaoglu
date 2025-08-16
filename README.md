@@ -37,8 +37,6 @@ I am a versatile Android/Flutter developer with a good foundation in cs · mobil
 
 ## Published Mobile Applications
 
-- **[Sentensearch](https://play.google.com/store/apps/details?id=com.bugrahankaramollaoglu.sentensearch)** — Language learning app available on Google Play Store
-
 | [Sentensearch](https://github.com/bugrahankaramollaoglu/sentensearch) / [Play Store](https://play.google.com/store/apps/details?id=com.bugrahankaramollaoglu.sentensearch) |
 |:----------------------------------------:|
 | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/sentensearch.png" width="200" alt="Sentensearch app screenshot"/> |
@@ -50,7 +48,7 @@ I am a versatile Android/Flutter developer with a good foundation in cs · mobil
 
 | [Tasty](https://github.com/bugrahankaramollaoglu/tasty) | [Cognivo](https://github.com/bugrahankaramollaoglu/cognivo) | [Gojo](https://github.com/bugrahankaramollaoglu/gojo) | [Rota Portali](https://github.com/bugrahankaramollaoglu/rota_portali) |
 |:-------------------------:|:------------------------------:|:-----------------------:|:-------------------:|
-| <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/tasty.png" width="200" alt="Tasty app screenshot"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/cognivo.png" width="200" alt="Cognivo app screenshot"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/gojo.png" width="200" alt="Gojo app screenshot"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/rota_portali.png" width="200" alt="Rota Portali app screenshot"/> |
+| <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/tasty.png" width="200" alt="Tasty app screenshot"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/cognivoo.png" width="200" alt="Cognivo app screenshot"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/gojo.png" width="200" alt="Gojo app screenshot"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/rota_portali.png" width="200" alt="Rota Portali app screenshot"/> |
 
 | [Greefin](https://github.com/bugrahankaramollaoglu/greefin) | [Remindly](https://github.com/bugrahankaramollaoglu/remindly) | [Weatherly](https://github.com/bugrahankaramollaoglu/weatherly) | [Catch Flappy](https://github.com/bugrahankaramollaoglu/catch-flappy) |
 |:-------------------------:|:------------------------------:|:-----------------:|:-----------------:|
