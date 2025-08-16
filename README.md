@@ -40,7 +40,7 @@ I am a versatile Android/Flutter developer with a good foundation in cs · mobil
 - **[Sentensearch](https://play.google.com/store/apps/details?id=com.bugrahankaramollaoglu.sentensearch)** — Language learning app available on Google Play Store
 
 | [Sentensearch](https://github.com/bugrahankaramollaoglu/sentensearch) / [Play Store](https://play.google.com/store/apps/details?id=com.bugrahankaramollaoglu.sentensearch) |
-|:-------------------------:|:------------------------------:|:-----------------------:|:-------------------:|
+|:----------------------------------------:|
 | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/sentensearch.png" width="200" alt="Sentensearch app screenshot"/> |
 
 
