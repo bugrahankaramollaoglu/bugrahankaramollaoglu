@@ -60,19 +60,15 @@ I am a versatile Android/Flutter developer with a good foundation in cs · mobil
 
 I regularly publish technical articles sharing insights and tutorials on software development:
 
-- [Pillars of OOP](https://medium.com/@bugrakaramollaoglu/pillars-of-oop-ed42fb6d29e8)  
-- [ListView & RecyclerView in Android](https://medium.com/@bugrakaramollaoglu/listview-and-recyclerview-android-78e4d38b23c6)  
-- [Introduction to SQLite in Android](https://medium.com/@bugrakaramollaoglu/sqlite-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-c0a766e0519e)  
-- [Using APIs in Android](https://medium.com/@bugrakaramollaoglu/%C3%BCcretsiz-api-kaynaklar%C4%B1-nas%C4%B1l-kullan%C4%B1l%C4%B1r-hava-durumu-68036a06d3e2)  
-- [Implementing Onboarding in Flutter](https://medium.com/@bugrahankaramollaoglu/how-to-implement-onboarding-in-flutter-a334386dfb9b)  
-- [Makefile Tutorial](https://medium.com/@bugrakaramollaoglu/makefile-tutorial-e95b25078633)
+| [Pillars of OOP](https://medium.com/@bugrakaramollaoglu/pillars-of-oop-ed42fb6d29e8) | [ListView vs. RecyclerView](https://medium.com/@bugrakaramollaoglu/listview-and-recyclerview-android-78e4d38b23c6) | [SQLite](https://medium.com/@bugrakaramollaoglu/sqlite-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-c0a766e0519e) | [APIs in Android](https://medium.com/@bugrakaramollaoglu/%C3%BCcretsiz-api-kaynaklar%C4%B1-nas%C4%B1l-kullan%C4%B1l%C4%B1r-hava-durumu-68036a06d3e2) |
+|:-------------------------:|:------------------------------:|:-------------------------:|:------------------------------:|
+| <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/oop.png" width="200" alt="Pillars of OOP"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/recyclerview.png" width="200" alt="ListView vs RecyclerView"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/sqlite.png" width="200" alt="SQLite Tutorial"/> | <img src="https://github.com/bugrahankaramollaoglu/bugrahankaramollaoglu/blob/main/readme_files/apis.png" width="200" alt="APIs in Android"/> |
 
 ---
 
 ## Tutorials on Youtube
 
 I try to publish all the new concepts and libraries in Android and Flutter for learning purposes.
-
 
 | [APIs in Flutter](https://www.youtube.com/watch?v=h3pRX_czDzY&t=1023s&ab_channel=bu%C4%9Frahankaramollao%C4%9Flu) | [APIs in Kotlin](https://www.youtube.com/watch?v=h3pRX_czDzY&t=1023s&ab_channel=bu%C4%9Frahankaramollao%C4%9Flu)
 |:-------------------------:|:------------------------------:
