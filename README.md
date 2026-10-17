@@ -15,7 +15,7 @@ Explore my full portfolio and resume at:
 I am a versatile Android/Flutter developer with a good foundation in cs · mobile applications. I implement a wide span of mobile technologies in developing my apps and I am learning to integrate AI agents for a better suitability with the state-of-the-art technologies.
 
 - **Education:** Boğaziçi University, B.a
-- **Specialization:** Mobile Development (Kotlin, Java, Jetpack Compose, Flutter)  
+- **Specialization:** Fullstack Mobile Development (Kotlin, Java, Jetpack Compose, Flutter)  
 - **Additional Training:**  
   - 42 Istanbul — Software Engineering (C, C++)  
   - Google Academy — Flutter & Project Management
@@ -25,7 +25,7 @@ I am a versatile Android/Flutter developer with a good foundation in cs · mobil
 
 ## Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=kotlin,dart,java,c,cpp,python" alt="Programming Languages" />  
+<img src="https://skillicons.dev/icons?i=kotlin,dart,java,c,angular,python,react" alt="Programming Languages" />  
 
 <img src="https://skillicons.dev/icons?i=flutter,django,nodejs,postman,arch" alt="Programming Languages" />  
 
